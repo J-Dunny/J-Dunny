@@ -15,6 +15,8 @@ My name is Jake Dunafon, I am a front-end software engineer and I live in sunny 
   <img src="https://img.shields.io/badge/chai-6e8561?style=for-the-badge=&logo=chai&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-6e8561?style=for-the-badge=&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Postgresql-6e8561?style=for-the-badge=&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/knex-6e8561?style=for-the-badge=&logo=knex&logoColor=white" />
+
 
 </p>
 
