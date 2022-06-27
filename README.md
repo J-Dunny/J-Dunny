@@ -4,11 +4,11 @@ My name is Jake Dunafon, I am a front-end software engineer and I live in sunny 
 <img src="https://img.shields.io/badge/Gmail-445c36?style=for-the-badge=&logo=gmail&logoColor=white" /> <a href="https://www.linkedin.com/in/jacob-dunafon/"> <img src="https://img.shields.io/badge/LinkedIn-6e8561?style=for-the-badge=&logo=linkedin&logoColor=white" />
 
 
+<h3 align='center'> Languages: </h3>
 <p align='center'>
-<img height="150" width="350" src="https://github-readme-stats.vercel.app/api?username=J-Dunny&theme=merko">
-</p>
-<p align='center'>
-<img height="150" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dunny&theme=merko">
+<img src="https://img.shields.io/badge/JavaScript-6e8561?style=for-the-badge=&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/html5%20-445c36.svg?&style=for-the-badge=&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3%20-9cb38f.svg?&style=for-the-badge=&logo=css3&logoColor=white" />
 </p>
 
 <!--
