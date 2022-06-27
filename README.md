@@ -3,6 +3,9 @@
 <p align='center'>
 <img height="150" width="350" src="https://github-readme-stats.vercel.app/api?username=J-Dunny&theme=merko">
 </p>
+<p align='center'>
+<img height="150" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Dunny&theme=merko">
+</p>
 
 <!--
 
