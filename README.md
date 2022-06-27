@@ -19,6 +19,8 @@ My name is Jake Dunafon, I am a front-end software engineer currently living in 
 
   <img src="https://img.shields.io/badge/Knex-6e8561?style=for-the-badge=&logo=knex&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-6e8561?style=for-the-badge=&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+
 </p>
   
   <h3 align='center'> Tools: </h3>
@@ -32,6 +34,8 @@ My name is Jake Dunafon, I am a front-end software engineer currently living in 
 <img src="https://img.shields.io/badge/Postman-6e8561?style=for-the-badge=&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
 
 
 
