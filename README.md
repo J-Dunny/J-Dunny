@@ -33,7 +33,11 @@ My name is Jake Dunafon, I am a front-end software engineer currently living in 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
- </p>
+</p>
+ 
+<p align='center'>
+  <img height="150" width="350" src="https://github-readme-stats.vercel.app/api?username=J-Dunny&theme=merko">
+</p>
 <!--
 
 - 🔭 I’m currently working on ...
