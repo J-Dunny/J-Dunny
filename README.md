@@ -1,6 +1,6 @@
 ### Hello from sunny San Diego! ☀️
 
-My name is Jake Dunafon, I am a front-end software engineer currently living in San Diego! I love staying active surfing, basketball, biking, running you name it. If you want to get in touch with me you can reach me at: <a href="mailto:jlad795@gmail.com">
+My name is Jake Dunafon, I am a front-end software engineer currently living in San Diego. I love staying active surfing, basketball, beach volleyball, biking, running you name it. If you want to get in touch with me you can reach me at: <a href="mailto:jlad795@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-445c36?style=for-the-badge=&logo=gmail&logoColor=white" /> <a href="https://www.linkedin.com/in/jacob-dunafon/"> <img src="https://img.shields.io/badge/LinkedIn-6e8561?style=for-the-badge=&logo=linkedin&logoColor=white" />
 
 
