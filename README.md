@@ -14,11 +14,8 @@ My name is Jake Dunafon, I am a front-end software engineer currently living in 
   <img src="https://img.shields.io/badge/Mocha-445c36?style=for-the-badge=&logo=Mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/chai-6e8561?style=for-the-badge=&logo=chai&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-6e8561?style=for-the-badge=&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-6e8561?style=for-the-badge=&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Knex-6e8561?style=for-the-badge=&logo=knex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-6e8561?style=for-the-badge=&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 
 </p>
@@ -27,7 +24,7 @@ My name is Jake Dunafon, I am a front-end software engineer currently living in 
 <p align='center'>
 <img src="https://img.shields.io/badge/github-6e8561.svg?style=for-the-badge=&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/git-9cb38f.svg?style=for-the-badge=&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-445c36?style=for-the-badge=&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Atom-9cb38f.svg?&style=for-the-badge=&logo=atom&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-9cb38f.svg?&style=for-the-badge=&logo=vscode&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-6e8561.svg?&style=for-the-badge=&logo=slack&logoColor=white" />
