@@ -7,7 +7,7 @@ My name is Jake Dunafon, I am a front-end software engineer currently living in 
 <h3 align='center'> Technologies: </h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/JavaScript-6e8561?style=for-the-badge=&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-9cb38f?style=for-the-badge=&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/html5%20-445c36.svg?&style=for-the-badge=&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-9cb38f.svg?&style=for-the-badge=&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
