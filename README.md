@@ -14,7 +14,7 @@ My name is Jake Dunafon, I am a front-end software engineer currently living in 
   <img src="https://img.shields.io/badge/Mocha-445c36?style=for-the-badge=&logo=Mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/chai-6e8561?style=for-the-badge=&logo=chai&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-6e8561?style=for-the-badge=&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgresql-6e8561?style=for-the-badge=&logo=postgresql&logoColor=white" />
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   <img src="https://img.shields.io/badge/Knex-6e8561?style=for-the-badge=&logo=knex&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-6e8561?style=for-the-badge=&logo=express&logoColor=white" />
 </p>
