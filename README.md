@@ -31,6 +31,8 @@ My name is Jake Dunafon, I am a front-end software engineer currently living in 
 <img src="https://img.shields.io/badge/Slack-6e8561.svg?&style=for-the-badge=&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-6e8561?style=for-the-badge=&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
 
 
 <!--
